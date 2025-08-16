@@ -32,13 +32,14 @@ student-helper/
 ├── src/
 │   ├── main/
 │   │   └── java/com/example/studenthelper/
-│   │       ├── Main.java            # Точка входа
-│   │       └── StudentHelper.java   # Основная логика
+│   │       ├── Main.java 
+│   │       └── StudentHelper.java 
 │   └── test/
 │       └── java/com/example/studenthelper/
-│           └── StudentHelperTest.java # Тесты
-├── pom.xml                          # Конфигурация Maven
-└── .gitignore
+│           └── StudentHelperTest.java
+├── LICENSE
+├── README.md 
+└── pom.xml
 ```
 
 ## 📋 Функционал
